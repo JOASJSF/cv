@@ -15,7 +15,7 @@ const data: Data = {
   summary:
     'My name is Joaquin Martinez and Im a passionate about creating efficient and scalable solutions, with skills in both front-end and back-end development. Focused on continuous learning, solving complex problems, and improving performance in every project. Committed to code quality and teamwork.',
   avatarUrl: getAssetPath() + '/locale/es/profile.jpg',
-  skills: ['Next.js', 'Tailwind CSS', 'JavaScript', 'Node.Js', 'Laravel', 'PHP', 'Git'],
+  skills: ['JavaScript', 'TypeScript', 'React','Next.js', 'Tailwind CSS', 'Node.Js', 'Laravel', 'PHP', 'Git'],
   education: [
     {
       school: 'ISP Nº20 "Sdor Nestor J.Zamaro"',

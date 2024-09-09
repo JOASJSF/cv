@@ -1,7 +1,7 @@
 import { getAssetPath } from '@/app/lib/utils';
 import { Data } from '@/types/data';
 import { SiGithub, SiX } from '@icons-pack/react-simple-icons';
-import { Calendar, Mail, Send } from 'lucide-react';
+import { Mail } from 'lucide-react';
 
 const data: Data = {
   name: 'Joaquín Martínez',
@@ -15,7 +15,7 @@ const data: Data = {
   summary:
     'Mi nombre es Joaquín Martínez y soy un apasionado por crear soluciones eficientes, con habilidades en desarrollo front-end y back-end. Enfocado en el aprendizaje continuo, la resolución de problemas, y la mejora del rendimiento en cada proyecto. Comprometido con la calidad del código y el trabajo en equipo.',
   avatarUrl: getAssetPath() + '/locale/es/profile.jpg',
-  skills: ['Next.js', 'Tailwind CSS', 'JavaScript', 'Node.Js', 'Laravel', 'PHP', 'Git'],
+  skills: ['JavaScript', 'TypeScript', 'React','Next.js' , 'Tailwind CSS', 'Node.Js', 'Laravel', 'PHP', 'Git'],
   education: [
     {
       school: 'ISP Nº20 "Sdor Nestor J.Zamaro"',
